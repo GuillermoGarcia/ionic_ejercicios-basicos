@@ -1,11 +1,10 @@
 # Ejercicios Basicos de Ionic
 
 ## Ejercicio 1
-Creamos los botones "Muestra Nombre" y "Limpia Pantalla" y tenemos un nombre 
-![Ejercicio 1](https://github.com/GuillermoGarcia/imagenes-para-readmes/blob/master/Ejercicio01-1.png)
+Mostrar un nombre tras pulsar el botón "Muestra Nombre" y se limpiara la pantalla al pulsar el botón "Limpia Pantalla".
 
-Si pulsamos en el botón "Muestra Nombre" se mostrara el nombre
+![Si pulsamos en el botón "Muestra Nombre" se mostrara el nombre](https://github.com/GuillermoGarcia/imagenes-para-readmes/blob/master/Ejercicio01-1.png)
 
-![Ejercicio 1](https://github.com/GuillermoGarcia/imagenes-para-readmes/blob/master/Ejercicio01-2.png)
+![Si pulsamos en el botón "Limpia Pantalla" se quitara el nombre](https://github.com/GuillermoGarcia/imagenes-para-readmes/blob/master/Ejercicio01-2.png)
 
-Si pulsamos en el botón "Limpia Pantalla" se quitara el nombre
+
